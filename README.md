@@ -1,7 +1,7 @@
 <h1 align="center">Sup 👋, I'm Kauã Nylander</h1>
-<h3 align="center">Beginner developer from Brasil. Breathing code 24/7.</h3>
+<h3 align="center">Beginner developer from Brasil with "new" Github account. Breathing code 24/7.</h3>
 
-- 🔭 I’m currently working on **Online Card Game**
+- 🔭 I’m currently working on my personal **Online Card Game**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Typesciypt**
 
