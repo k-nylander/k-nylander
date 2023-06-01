@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup, i'm Kauã <img src="https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html" width="40px">
 
 <!--
 **k-nylander/k-nylander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
